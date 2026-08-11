@@ -1,0 +1,10 @@
+{
+  "name": "forint. 个人生活仪表盘",
+  "short_name": "forint.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f3",
+  "theme_color": "#183f2e",
+  "icons": [{"src":"./favicon.svg","sizes":"any","type":"image/svg+xml"}]
+}
